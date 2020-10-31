@@ -5,5 +5,5 @@ class A {
 	Systemout(c)
 }
 class B {
-
+	s	=	21
 }
