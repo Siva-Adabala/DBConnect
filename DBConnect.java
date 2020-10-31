@@ -5,5 +5,9 @@ class A {
 	Systemout(c)
 }
 class B {
+<<<<<<< HEAD
 	s	=	21
+=======
+a
+>>>>>>> bugfix
 }
